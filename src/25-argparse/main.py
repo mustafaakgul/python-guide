@@ -4,7 +4,7 @@
 import argparse
 
 # Usage
-# python main.py -i heyfirst -a second
+# python main1.py -i heyfirst -a second
 
 # Create the parser
 parser = argparse.ArgumentParser(description='Description of the argparse program')
