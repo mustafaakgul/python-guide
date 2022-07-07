@@ -1,8 +1,14 @@
+def voidfunc(hey):
+    print(hey)
+
+voidfunc("Hello")
+#round(days_to_complete(238855, 75))
+
 def sayHello(name = 'user'):
     return 'Hello '+ name
 
-msg = sayHello('Çınar')
-msg = sayHello('Ada')
+msg = sayHello('mustafa')
+msg = sayHello('akgul')
 
 print(msg)
 
