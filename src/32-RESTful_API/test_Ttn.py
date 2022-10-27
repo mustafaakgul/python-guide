@@ -2,8 +2,8 @@
 import time
 import ttn
 
-app_id = "kontrolmatik_app_lora"
-access_key = "ttn-account-v2.y0XaLuVSSWbgM3aVvlIZPfi6HwEipEyMMiHT5nAqmtI"
+app_id = "APP_app_lora"
+access_key = "YOUR_KEY"
 
 def uplink_callback(msg, client):
   print("Received uplink from ", msg.dev_id)

@@ -1,4 +1,4 @@
-# Veriler doviz.com adresinden alınmaktadır.
+# Veriler 34-exchange.com adresinden alınmaktadır.
 import re
 from requests import get
 from ulauncher.api.client.Extension import Extension

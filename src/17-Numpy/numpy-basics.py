@@ -24,8 +24,3 @@ print(np_multi.ndim)
 #sekilleri : ilki 9 doner ikincisi 3,3 doner
 print(np_array.shape)
 print(np_multi.shape)
-
-
-
-
-

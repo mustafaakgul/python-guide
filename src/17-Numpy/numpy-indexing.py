@@ -31,6 +31,3 @@ arr2[0] = 20
 
 print(arr1)
 print(arr2)
-
-
-
